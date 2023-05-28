@@ -16,8 +16,8 @@
 * Bootstrap V4 (CDN)
 
 ---------------------NODE INFO---------------------
-Node: v14.16.0
-npm: 6.14.11
+* Node: v14.16.0
+* npm: 6.14.11
 
 --------------HOW DO TO RUN THIS PROJECT------------
 
