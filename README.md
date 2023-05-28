@@ -4,6 +4,8 @@
  * @MyYouTubeChannel NdundeCode
  */
 
+ Please I have attached a video in the route folder
+
 ---------------FRONT-END TECH STACK----------------
 
 * HTML,CSS
@@ -15,11 +17,12 @@
 * DataTable jQuery Library
 * Bootstrap V4 (CDN)
 
+
 ---------------------NODE INFO---------------------
 * Node: v14.16.0
 * npm: 6.14.11
 
---------------HOW DO TO RUN THIS PROJECT------------
+--------------HOW TO RUN THIS PROJECT--------------
 
 In the project directory, you can run:
 
